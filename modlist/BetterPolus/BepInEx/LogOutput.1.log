@@ -1,0 +1,10 @@
+﻿[Message: Preloader] BepInEx 6.0.0-reactor.16 - Among Us
+[Message: Preloader] BLEEDING EDGE Build #16 from a44ed820546a57f00af344eb86ba879e270b71d3 at reactor
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Info   : Preloader] Running under Unity v2019.4.9.5308042
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:   BepInEx] Chainloader initialized
+[Info   :Unhollower] Registered mono type UnhollowerRuntimeLib.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :   BepInEx] 0 plugins to load
+[Message:   BepInEx] Chainloader startup complete

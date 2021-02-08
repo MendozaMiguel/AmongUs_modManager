@@ -1,0 +1,22 @@
+﻿[Message: Preloader] BepInEx 6.0.0-reactor.16 - Among Us
+[Message: Preloader] BLEEDING EDGE Build #16 from a44ed820546a57f00af344eb86ba879e270b71d3 at reactor
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Info   : Preloader] Running under Unity v2019.4.9.5308042
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:   BepInEx] Chainloader initialized
+[Info   :Unhollower] Registered mono type UnhollowerRuntimeLib.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :   BepInEx] 3 plugins to load
+[Info   :   BepInEx] Loading [Reactor 0.3.0-ci.38]
+[Info   :Unhollower] Registered mono type Reactor.Coroutines+Component in il2cpp domain
+[Info   :Unhollower] Registered mono type Reactor.ReactorPlugin+ReactorComponent in il2cpp domain
+[Info   :Unhollower] Registered mono type Reactor.Unstrip.Patches+GUIWordWrapSizer in il2cpp domain
+[Info   :   BepInEx] Loading [BetterPolus 1.0.0]
+[Info   :   BepInEx] Loading [Sheriff Mod 1.1.0]
+[Message:Sheriff Mod] Sheriff Mod loaded
+[Message:   BepInEx] Chainloader startup complete
+[Info   :BetterPolus] Moving Vitals to Laboratory
+[Info   :BetterPolus] Deactivating WeatherMap
+[Info   :BetterPolus] Copying and moving DvdScreen
+[Info   :BetterPolus] Moving Wifi to Dropship
+[Info   :BetterPolus] Moving Nav to Comms
